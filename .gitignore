@@ -1,1 +1,4 @@
 .DS_Store
+/IzvorniKod/Swappet/backend/.idea
+/IzvorniKod/Swappet/frontend/node_modules
+*.class
